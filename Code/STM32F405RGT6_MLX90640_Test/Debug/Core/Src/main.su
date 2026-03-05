@@ -1,0 +1,14 @@
+../Core/Src/main.c:88:5:main	32	static
+../Core/Src/main.c:153:12:thermal_init	8	static
+../Core/Src/main.c:182:13:thermal_read_full_frame	24	static
+../Core/Src/main.c:209:13:find_min_max	80	static
+../Core/Src/main.c:244:17:temp_to_color565	40	static
+../Core/Src/main.c:311:13:draw_thermal_image	80	static
+../Core/Src/main.c:352:13:draw_color_bar	40	static
+../Core/Src/main.c:371:13:draw_temperature_labels	96	static
+../Core/Src/main.c:400:6:SystemClock_Config	88	static
+../Core/Src/main.c:446:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:482:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:518:13:MX_DMA_Init	16	static
+../Core/Src/main.c:536:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:592:6:Error_Handler	4	static,ignoring_inline_asm

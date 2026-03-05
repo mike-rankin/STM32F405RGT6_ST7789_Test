@@ -1,0 +1,14 @@
+../Core/Src/main.c:88:5:main	2
+../Core/Src/main.c:153:12:thermal_init	3
+../Core/Src/main.c:182:13:thermal_read_full_frame	3
+../Core/Src/main.c:209:13:find_min_max	3
+../Core/Src/main.c:244:17:temp_to_color565	6
+../Core/Src/main.c:311:13:draw_thermal_image	3
+../Core/Src/main.c:352:13:draw_color_bar	2
+../Core/Src/main.c:371:13:draw_temperature_labels	3
+../Core/Src/main.c:400:6:SystemClock_Config	3
+../Core/Src/main.c:446:13:MX_I2C1_Init	2
+../Core/Src/main.c:482:13:MX_SPI1_Init	2
+../Core/Src/main.c:518:13:MX_DMA_Init	1
+../Core/Src/main.c:536:13:MX_GPIO_Init	1
+../Core/Src/main.c:592:6:Error_Handler	1
